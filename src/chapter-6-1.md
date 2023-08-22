@@ -1,5 +1,4 @@
-Overview of AI Applications for Prescriptive Analytics in Small Businesses
-==========================================================================================================================
+
 
 Prescriptive analytics is a field of data analysis that uses AI to recommend actions or decisions based on data insights. In this chapter, we will discuss the different AI applications for prescriptive analytics in small businesses.
 

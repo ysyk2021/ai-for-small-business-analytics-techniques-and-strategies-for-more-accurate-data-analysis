@@ -1,5 +1,4 @@
-Chapter 6: Using AI for Text and Sentiment Analysis
-===================================================
+
 
 Text and sentiment analysis is a rapidly growing application of AI that can provide valuable insights into customer behavior, product performance, and brand reputation. By analyzing text data and identifying patterns, small businesses can predict trends, monitor social media, and improve their brand messaging. In this chapter, we will explore AI applications for text and sentiment analysis in small businesses.
 

@@ -1,5 +1,4 @@
-Evaluating Data Availability and Quality
-================================================================================================================
+
 
 In this chapter, we will discuss the importance of evaluating data availability and quality before implementing AI solutions for small business analytics.
 
