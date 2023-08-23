@@ -1,5 +1,4 @@
 
-
 Implementing AI in small business analytics can provide many benefits, including improved efficiency and accuracy. However, it's essential to measure and assess the impact of AI on your analytics approach to ensure you're getting the expected results.
 
 In this chapter, we will discuss strategies for measuring the impact of AI on small business analytics and continuously improving your AI approach.

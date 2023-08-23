@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the importance of developing governance frameworks for small business analytics to ensure responsible AI use. AI technologies have the potential to generate significant benefits for small businesses, but their use also raises ethical and governance concerns that must be addressed.
 
 The Importance of AI Ethics and Governance

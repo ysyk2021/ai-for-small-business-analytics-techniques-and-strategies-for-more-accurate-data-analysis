@@ -1,5 +1,4 @@
 
-
 In this chapter, we will define AI-powered analytics and discuss the benefits of AI for small business analytics. By understanding the basic concepts of AI-powered analytics, small businesses can better understand the potential of advanced analytics to enhance decision-making and gain a competitive advantage.
 
 Definition of AI-powered Analytics

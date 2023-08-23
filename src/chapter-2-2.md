@@ -1,5 +1,4 @@
 
-
 In this chapter, we will dive deeper into the specific types of AI technologies used in small business analytics. As mentioned in the introduction, machine learning, natural language processing, deep learning, and computer vision are the primary types of AI used for small business analytics. In this section, we will discuss each type of AI in greater detail.
 
 Machine Learning

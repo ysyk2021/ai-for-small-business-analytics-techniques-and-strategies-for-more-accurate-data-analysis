@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly rely on AI for analytics, it's essential that they prioritize ethical considerations to ensure that AI is used responsibly. In this chapter, we'll explore some of the key ethical considerations for AI implementation in small business analytics.
 
 Transparency

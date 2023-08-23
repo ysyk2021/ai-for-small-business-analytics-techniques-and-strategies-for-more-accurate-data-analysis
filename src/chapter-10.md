@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly rely on AI technology for data analysis, there are several ethical, governance, legal, and regulatory considerations that must be taken into account. Implementing AI in small business analytics requires a responsible and ethical approach to ensure that the technology is used appropriately and does not harm customers, employees, or other stakeholders.
 
 In this chapter, we will discuss ethical considerations, developing governance frameworks, and legal and regulatory considerations for AI implementation in small business analytics.

@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly rely on AI for analytics, it's essential that they prioritize ethical considerations and comply with relevant legal and regulatory requirements. In this chapter, we'll explore some of the key legal and regulatory considerations for AI implementation in small business analytics.
 
 Data Privacy Regulations

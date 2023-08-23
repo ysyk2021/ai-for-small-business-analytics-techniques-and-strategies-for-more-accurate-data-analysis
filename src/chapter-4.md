@@ -1,5 +1,4 @@
 
-
 In this chapter, we will provide an overview of AI tools and technologies available to small businesses, key factors to consider when choosing AI tools, and case studies of successful AI implementations in small business analytics.
 
 Overview of AI Tools and Technologies for Small Business Analytics
