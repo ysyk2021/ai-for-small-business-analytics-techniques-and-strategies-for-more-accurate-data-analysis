@@ -10,3 +10,7 @@ In this book, we will provide an overview of AI applications for small business 
 Whether you're a small business owner looking to improve your data analysis capabilities or a professional looking to expand your knowledge of AI in small business analytics, this book is for you. Let's dive into the world of AI and discover how it can help small businesses thrive in today's data-driven economy.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
